@@ -91,7 +91,7 @@ I wish you a good day ⇐║
 http://line.me/ti/p/~cybertk0
 """,
     "lang":"JP",
-    "comment":"Thanks for add me Owner\n{¶ http://line.me/ti/p/~cybertk0 ¶} ",
+    "comment":"Thanks for add me Owner\n{¶ http://line.me/ti/p/~awl1sh ¶} ",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
@@ -186,9 +186,9 @@ def TOBLECNACPURGKTrebyC(laylaylalalay):
             get_contact_time_start = time.time()
             get_contact = cybertk.tcatnoCteg(cybertkMID)
             get_contact_time = time.time() - get_contact_time_start
-            cybertk.RESUREDNOGegasseMKTrebyC(laylaylalalay.param1, " ► BOT Profile respon\n\n - Get Profile\n   %.10f\n「Cyͥbeͣrͫ TK™」Sρεεd Sчѕтεмѕ" % (get_profile_time/3))
-            cybertk.RESUREDNOGegasseMKTrebyC(laylaylalalay.param1, " ► BOT Contact respon\n\n - Get Contact\n   %.10f\n「Cyͥbeͣrͫ TK™」Sρεεd Sчѕтεмѕ" % (get_contact_time/3))
-            cybertk.RESUREDNOGegasseMKTrebyC(laylaylalalay.param1, " ► BOT Group respon\n\n - Get Group\n   %.10f\n「Cyͥbeͣrͫ TK™」Sρεεd Sчѕтεмѕ" % (get_group_time/3))
+            cybertk.RESUREDNOGegasseMKTrebyC(laylaylalalay.param1, " ► BOT Profile respon\n\n - Get Profile\n   %.10f\n「Alishjoker™」Sρεεd Sчѕтεмѕ" % (get_profile_time/3))
+            cybertk.RESUREDNOGegasseMKTrebyC(laylaylalalay.param1, " ► BOT Contact respon\n\n - Get Contact\n   %.10f\n「Alishjoker™」Sρεεd Sчѕтεмѕ" % (get_contact_time/3))
+            cybertk.RESUREDNOGegasseMKTrebyC(laylaylalalay.param1, " ► BOT Group respon\n\n - Get Group\n   %.10f\n「alishjoker™」Sρεεd Sчѕтεмѕ" % (get_group_time/3))
             cybertk.RESUREDNOGegasseMKTrebyC(laylaylalalay.param1, "「 Cancel 」\nCancel is STARTING♪\n ' abort' to abort♪")
             
         if (laylaylalalay.type == 25):
