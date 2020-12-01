@@ -24,7 +24,7 @@ from time import sleep
 from gtts import gTTS
 from Naked.toolshed.shell import execute_js
 import ast, codecs, json, os, pytz, re, LineService, random, sys, time, urllib.parse, subprocess, threading, pyqrcode, pafy, humanize, os.path, traceback
-import time, random, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, six, ast, pytz, urllib, urllib.parse,youtube_dl,pafy,timeit,atexit,traceback,ffmpy,humanize
+import time, random, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, ast, pytz, urllib, urllib.parse,youtube_dl,pafy,timeit,atexit,traceback,ffmpy,humanize
 from datetime import datetime, timedelta
 from subprocess import Popen, PIPE
 from googletrans import Translator
